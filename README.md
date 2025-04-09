@@ -6,7 +6,7 @@ program - қосымша (программаj)
 variable - айнымалы
 const variable - тұракты айнымалы
 class - класс
-funciton - функция
+function - функция
 argument - аргумент
 parameter - параметр
 return - қайтару
@@ -17,3 +17,4 @@ programming language - бағдарламау тілі
 result - нәтиже
 array - массив
 brackets - жақша
+use - колдану
