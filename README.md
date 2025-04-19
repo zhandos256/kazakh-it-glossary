@@ -19,3 +19,4 @@ array - массив
 brackets - жақша
 use - колдану
 code - код
+Encryption - шифрлау
